@@ -1,123 +1,123 @@
-﻿index,date,day,month,year,newspaper,location,page_link,
-1,1814-09-28,28,9,1814,Enquirer,"Richmond, Virginia",https://chroniclingamerica.loc.gov/lccn/sn84024736/1814-09-28/ed-1/seq-4/ocr/,
-2,1839-12-11,11,12,1839,North-Carolina Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042147/1839-12-11/ed-1/seq-2/ocr/,
-3,1841-08-03,3,8,1841,Richmond Enquirer,"Richmond, Virginia",https://chroniclingamerica.loc.gov/lccn/sn84024735/1841-08-03/ed-1/seq-4/ocr/,
-4,1841-08-04,4,8,1841,North-Carolina Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042147/1841-08-04/ed-1/seq-2/ocr/,
-5,1841-09-18,18,9,1841,Salt River Journal,"Bowling Green, Missouri",https://chroniclingamerica.loc.gov/lccn/sn83016924/1841-09-18/ed-1/seq-2/ocr/,
-6,1843-01-21,21,1,1843,Richmond Enquirer,"Richmond, Virginia",https://chroniclingamerica.loc.gov/lccn/sn84024735/1843-01-21/ed-1/seq-4/ocr/,
-7,1845-06-14,14,6,1845,Wisconsin Herald,"Lancaster, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn87082161/1845-06-14/ed-1/seq-2/ocr/,
-8,1845-09-12,12,9,1845,American Republican and Baltimore Daily Clipper,"Baltimore, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83009567/1845-09-12/ed-1/seq-1/ocr/,
-9,1852-09-17,17,9,1852,Wheeling Daily Intelligencer,"Wheeling, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-09-17/ed-1/seq-2/ocr/,
-10,1854-03-25,25,3,1854,North Carolinian,"Fayetteville, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn84020750/1854-03-25/ed-1/seq-1/ocr/,
-11,1857-07-02,2,7,1857,Pacific Commercial Advertiser,"Honolulu, Hawaii",https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-07-02/ed-1/seq-1/ocr/,
-12,1857-08-13,13,8,1857,Yorkville Enquirer,"Yorkville, South Carolina",https://chroniclingamerica.loc.gov/lccn/sn84026925/1857-08-13/ed-1/seq-1/ocr/,
-13,1858-07-03,3,7,1858,Sunbury American,"Sunbury, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84026403/1858-07-03/ed-1/seq-1/ocr/,
-14,1858-07-10,10,7,1858,Saint Paul Weekly Minnesotian,"St Paul, Minnesota",https://chroniclingamerica.loc.gov/lccn/sn90059500/1858-07-10/ed-1/seq-1/ocr/,
-15,1860-07-11,11,7,1860,Ashland Union,"Ashland, Ohio",https://chroniclingamerica.loc.gov/lccn/sn83035173/1860-07-11/ed-1/seq-4/ocr/,
-16,1860-07-14,14,7,1860,Gazette and Sentinel,"Plaquemine, Louisiana",https://chroniclingamerica.loc.gov/lccn/sn86053832/1860-07-14/ed-1/seq-4/ocr/,
-17,1860-11-16,16,11,1860,Constitutional Union,"Des Ark, Arkansas",https://chroniclingamerica.loc.gov/lccn/sn87090585/1860-11-16/ed-1/seq-4/ocr/,
-18,1861-01-10,10,1,1861,Evansville Daily Journal,"Evansville, Indiana",https://chroniclingamerica.loc.gov/lccn/sn82015672/1861-01-10/ed-1/seq-1/ocr/,
-19,1861-03-16,16,3,1861,Emporia News,"Emporia, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82016419/1861-03-16/ed-1/seq-1/ocr/,
-20,1861-04-23,23,4,1861,Worchester Daily Spy,"Worcester, Massachussets",https://chroniclingamerica.loc.gov/lccn/sn83021205/1861-04-23/ed-1/seq-1/ocr/,
-21,1861-04-25,25,4,1861,Alleghanian,"Ebensburg, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn85054845/1861-04-25/ed-1/seq-1/ocr/,
-22,1861-04-26,26,4,1861,Lamoille Newsdealer,"Hyde Park, Vermont",https://chroniclingamerica.loc.gov/lccn/sn84023428/1861-04-26/ed-1/seq-4/ocr/,
-23,1861-04-26,26,4,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-04-26/ed-1/seq-1/ocr/,
-24,1861-05-02,2,5,1861,St. Cloud Democrat,"Saint Cloud, Minnesota",https://chroniclingamerica.loc.gov/lccn/sn83016836/1861-05-02/ed-1/seq-1/ocr/,
-25,1861-05-02,2,5,1861,Civilian & Telegraph,"Cumberland, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83016179/1861-05-02/ed-1/seq-1/ocr/,
-26,1861-05-04,4,5,1861,New-York Dispatch,"New York, New York",https://chroniclingamerica.loc.gov/lccn/sn83030364/1861-05-04/ed-1/seq-1/ocr/,
-27,1861-05-04,4,5,1861,Burlington Weekly Hawk-Eye,"Burlington, Iowa",https://chroniclingamerica.loc.gov/lccn/sn84027060/1861-05-04/ed-1/seq-3/ocr/,
-28,1861-05-07,7,5,1861,Buchanan County Guardian,"Independence, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058348/1861-05-07/ed-1/seq-1/ocr/,
-29,1861-05-08,8,5,1861,Spirit of Democracy,"Woodsfield, Ohio",https://chroniclingamerica.loc.gov/lccn/sn85038115/1861-05-08/ed-1/seq-4/ocr/,
-30,1861-05-09,9,5,1861,Cass County Republican,"Dowagiac, Michigan",https://chroniclingamerica.loc.gov/lccn/sn85033611/1861-05-09/ed-1/seq-4/ocr/,
-31,1861-05-16,16,5,1861,Vermont Phoenix,"Brattleboro, Vermont",https://chroniclingamerica.loc.gov/lccn/sn98060050/1861-05-16/ed-1/seq-4/ocr/,
-32,1861-05-17,17,5,1861,Watertown Republican,"Watertown, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85033295/1861-05-17/ed-1/seq-1/ocr/,
-33,1861-06-21,21,7,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-06-21/ed-1/seq-3/ocr/,
-34,1861-06-28,28,6,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-06-28/ed-1/seq-4/ocr/,
-35,1861-07-02,2,7,1861,Daily Green Mountain Freeman,"Montpelier, Vermont",https://chroniclingamerica.loc.gov/lccn/sn84023210/1861-07-02/ed-1/seq-1/ocr/,
-36,1861-07-06,7,7,1861,West-Jersey Pioneer,"Bridgeton, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn83032103/1861-07-06/ed-1/seq-1/ocr/,
-37,1861-07-06,6,7,1861,American Union,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn84026772/1861-07-06/ed-1/seq-4/ocr/,
-38,1861-07-11,11,7,1861,Centre Democrat,"Bellefonte, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84009409/1861-07-11/ed-1/seq-1/ocr/,
-39,1861-07-12,12,7,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-07-12/ed-1/seq-4/ocr/,
-40,1861-07-18,18,7,1861,Centre Democrat,"Bellefonte, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84009409/1861-07-18/ed-1/seq-1/ocr/,
-41,1861-08-16,16,8,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-08-16/ed-1/seq-4/ocr/,
-42,1862-07-03,3,7,1862,Tipton Advertiser,"Tipton, Iowa",https://chroniclingamerica.loc.gov/lccn/sn84027398/1862-07-03/ed-1/seq-1/ocr/,
-43,1865-06-30,30,6,1865,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-06-30/ed-1/seq-1/ocr/,
-44,1865-07-04,4,7,1865,Evansville Daily Journal,"Evansville, Indiana",https://chroniclingamerica.loc.gov/lccn/sn86059181/1865-07-04/ed-1/seq-2/ocr/,
-45,1865-07-04,4,7,1865,Wheeling Daily Intelligencer,"Wheeling, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn84026844/1865-07-04/ed-1/seq-1/ocr/,
-46,1865-07-05,5,7,1865,Weekly Perrysburg Journal,"Perrysburg, Ohio",https://chroniclingamerica.loc.gov/lccn/sn85026193/1865-07-05/ed-1/seq-1/ocr/,
-47,1866-04-09,9,4,1866,Evening Telegraph,"Philadelphia, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83025925/1866-04-09/ed-1/seq-6/ocr/,
-48,1866-09-13,13,9,1866,Elk Advocate,"Ridgeway, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn87079926/1866-09-13/ed-1/seq-1/ocr/,
-49,1867-01-29,29,1,1867,Tri-Weekly Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-01-29/ed-1/seq-4/ocr/,
-50,1867-01-31,31,1,1867,Tri-Weekly Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-01-31/ed-1/seq-4/ocr/,
-51,1867-10-21,21,10,1867,Daily Ohio Statesman,"Columbus, Ohio",https://chroniclingamerica.loc.gov/lccn/sn84028645/1867-10-21/ed-1/seq-1/ocr/,
-52,1871-07-13,13,7,1871,New York Herald,"New York, New York",https://chroniclingamerica.loc.gov/lccn/sn83030313/1871-07-13/ed-1/seq-6/ocr/,
-53,1872-06-29,29,6,1872,Sunbury American,"Sunbury, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84026403/1872-06-29/ed-1/seq-1/ocr/,
-54,1872-07-04,4,7,1872,White Cloud Kansas Chief,"White Cloud, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-07-04/ed-1/seq-4/ocr/,
-55,1872-11-05,5,11,1872,Bristol News,"Bristol, Virginia",https://chroniclingamerica.loc.gov/lccn/sn85026955/1872-11-05/ed-1/seq-1/ocr/,
-56,1875-07-01,1,7,1875,Lyon County Times,"Silver City, Nevada",https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-07-01/ed-1/seq-3/ocr/,
-57,1875-07-02,2,7,1875,New North-West,"Deer Lodge, Montana",https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-07-02/ed-1/seq-1/ocr/,
-58,1875-07-03,3,7,1875,Northern Ohio Journal,"Painesville, Ohio",https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-07-03/ed-1/seq-3/ocr/,
-59,1876-01-02,2,1,1876,Chicago Daily Tribune,"Chicago, Illinois",https://chroniclingamerica.loc.gov/lccn/sn84031492/1876-01-02/ed-1/seq-6/ocr/,
-60,1876-06-30,30,6,1876,Perrysburg Journal,"Perrysburg, Ohio",https://chroniclingamerica.loc.gov/lccn/sn87076843/1876-06-30/ed-1/seq-2/ocr/,
-61,1876-07-05,5,7,1876,Watertown Republican,"Watertown, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85033295/1876-07-05/ed-1/seq-2/ocr/,
-62,1876-07-06,6,7,1876,Weekly Kansas Chief,"Troy, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82015484/1876-07-06/ed-1/seq-4/ocr/,
-63,1876-07-07,7,7,1876,Herald and Mail,"Columbia, Tennessee",https://chroniclingamerica.loc.gov/lccn/sn86053406/1876-07-07/ed-1/seq-1/ocr/,
-64,1876-07-13,13,7,1876,Highland Weekly News,"Hillsborough, Ohio",https://chroniclingamerica.loc.gov/lccn/sn85038158/1876-07-13/ed-1/seq-2/ocr/,
-65,1878-06-27,27,6,1878,Weekly Kansas Chief,"Troy, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82015484/1878-06-27/ed-1/seq-1/ocr/,
-66,1881-01-01,1,1,1881,National Tribune,"Washington, DC",https://chroniclingamerica.loc.gov/lccn/sn82016187/1881-01-01/ed-1/seq-1/ocr/,
-67,1884-09-17,17,9,1884,Connecticut Western News,"Salisbury, Connecticut",https://chroniclingamerica.loc.gov/lccn/sn84027718/1884-09-17/ed-1/seq-1/ocr/,
-68,1885-07-04,4,7,1885,Democratic Advocate,"Westminster, Maryland",https://chroniclingamerica.loc.gov/lccn/sn85038292/1885-07-04/ed-1/seq-4/ocr/,
-69,1885-07-04,4,7,1885,Martinsburg Herald,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn85059533/1885-07-04/ed-1/seq-3/ocr/,
-70,1888-11-22,22,11,1888,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-11-22/ed-1/seq-4/ocr/,
-71,1890-07-04,4,7,1890,Iola Register,"Iola, Kansas",https://chroniclingamerica.loc.gov/lccn/sn83040340/1890-07-04/ed-1/seq-8/ocr/,
-72,1890-07-04,4,7,1890,Aegis & Intelligencer,"Bel Air, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83016107/1890-07-04/ed-1/seq-1/ocr/,
-73,1890-07-10,10,7,1890,Advance,"Jamesburg, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn91064026/1890-07-10/ed-1/seq-2/ocr/,
-74,1892-07-02,2,7,1892,Caldwell Tribune,"Caldwell, Idaho",https://chroniclingamerica.loc.gov/lccn/sn86091092/1892-07-02/ed-1/seq-10/ocr/,
-75,1894-01-20,20,1,1894,Martinsburg Herald,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn85059533/1894-01-20/ed-1/seq-3/ocr/,
-76,1894-09-15,15,9,1894,Record Union,"Sacramento, California",https://chroniclingamerica.loc.gov/lccn/sn82015104/1894-09-15/ed-1/seq-7/ocr/,
-77,1896-07-02,2,7,1896,Advance,"Jamesburg, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn91064026/1896-07-02/ed-1/seq-1/ocr/,
-78,1897-04-03,3,4,1897,Middletown Transcript,"Middletown, Delaware",https://chroniclingamerica.loc.gov/lccn/sn84026820/1897-04-03/ed-1/seq-2/ocr/,
-79,1897-06-26,26,6,1897,Las Vegas Daily Optic,"Las Vegas, New Mexico",https://chroniclingamerica.loc.gov/lccn/sn86063592/1897-06-26/ed-1/seq-3/ocr/,
-80,1897-07-01,1,7,1897,Globe-Republican,"Dodge City, Kansas",https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-07-01/ed-1/seq-7/ocr/,
-81,1897-07-01,1,7,1897,Hutchinson Gazette,"Hutchinson, Kansas",https://chroniclingamerica.loc.gov/lccn/sn85030687/1897-07-01/ed-1/seq-7/ocr/,
-82,1897-07-01,1,7,1897,Rocky Ford Enterprise,"Rocky Ford, Colorado",https://chroniclingamerica.loc.gov/lccn/sn90051265/1897-07-01/ed-1/seq-1/ocr/,
-83,1897-07-02,2,7,1897,Shoshone Journal,"Shoshone, Idaho",https://chroniclingamerica.loc.gov/lccn/sn86063039/1897-07-02/ed-1/seq-7/ocr/,
-84,1897-07-02,2,7,1897,Yale Expositor,"Yale, Michigan",https://chroniclingamerica.loc.gov/lccn/sn98066406/1897-07-02/ed-1/seq-3/ocr/,
-85,1897-07-02,2,7,1897,McCook Tribune,"McCook, Nebraska",https://chroniclingamerica.loc.gov/lccn/sn94056415/1897-07-02/ed-1/seq-3/ocr/,
-86,1897-07-02,2,7,1897,Kansas Agitator,"Garnett, Kansas",https://chroniclingamerica.loc.gov/lccn/sn83040052/1897-07-02/ed-1/seq-6/ocr/,
-87,1897-07-02,2,7,1897,State Herald,"Holyoke, Colorado",https://chroniclingamerica.loc.gov/lccn/sn90051167/1897-07-02/ed-1/seq-3/ocr/,
-88,1897-07-02,2,7,1897,Iowa State Bystander,"Des Moines, Iowa",https://chroniclingamerica.loc.gov/lccn/sn83025186/1897-07-02/ed-1/seq-4/ocr/,
-89,1897-07-31,31,7,1897,Caldwell Tribune,"Caldwell, Idaho",https://chroniclingamerica.loc.gov/lccn/sn86091092/1897-07-31/ed-1/seq-2/ocr/,
-90,1898-04-04,4,4,1898,Kansas City Journal,"Kansas City, Missouri",https://chroniclingamerica.loc.gov/lccn/sn86063615/1898-04-04/ed-1/seq-2/ocr/,
-91,1898-04-14,14,4,1898,Eagle River Review,"Eagle River, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85040614/1898-04-14/ed-1/seq-4/ocr/,
-92,1898-04-17,17,4,1898,Saint Paul Globe,"St Paul, Minnesota",https://chroniclingamerica.loc.gov/lccn/sn90059523/1898-04-17/ed-1/seq-1/ocr/,
-93,1898-04-18,18,4,1898,Salt Lake Herald,"Salt Lake City, Utah",https://chroniclingamerica.loc.gov/lccn/sn85058130/1898-04-18/ed-1/seq-4/ocr/,
-94,1898-04-21,21,4,1898,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-2/seq-4/ocr/,
-95,1898-04-21,21,4,1898,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-1/seq-5/ocr/,
-96,1898-04-21,21,4,1898,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-1/seq-4/ocr/,
-97,1898-04-22,22,4,1898,Lincoln County Leader,"Toledo, Oregon",https://chroniclingamerica.loc.gov/lccn/sn85033162/1898-04-22/ed-1/seq-2/ocr/,
-98,1898-04-25,25,4,1898,Topeka State Journal,"Topeka, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82016014/1898-04-25/ed-2/seq-4/ocr/,
-99,1898-04-28,28,4,1898,Republican,"Oakland, Maryland",https://chroniclingamerica.loc.gov/lccn/sn88065202/1898-04-28/ed-1/seq-1/ocr/,
-100,1898-04-28,28,4,1898,Butler Weekly Times,"Butler, Missouri",https://chroniclingamerica.loc.gov/lccn/sn89066489/1898-04-28/ed-1/seq-4/ocr/,
-101,1898-04-28,28,4,1898,Wilmington Daily Republican,"Wilmington, Delaware",https://chroniclingamerica.loc.gov/lccn/sn88053055/1898-04-28/ed-1/seq-4/ocr/,
-102,1898-05-04,4,5,1898,Bill Barlow's Budget,"Douglas, Wyoming",https://chroniclingamerica.loc.gov/lccn/sn92067125/1898-05-04/ed-1/seq-2/ocr/,
-103,1898-05-06,6,5,1898,Lewiston Teller,"Lewiston, Idaho",https://chroniclingamerica.loc.gov/lccn/sn82007023/1898-05-06/ed-1/seq-6/ocr/,
-104,1898-05-06,6,5,1898,Aegis & Intelligencer,"Bel Air, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83016107/1898-05-06/ed-1/seq-1/ocr/,
-105,1898-05-07,7,5,1898,El Paso Daily Herald,"El Paso, Texas",https://chroniclingamerica.loc.gov/lccn/sn86064199/1898-05-07/ed-1/seq-2/ocr/,
-106,1898-05-07,7,5,1898,Waterbury Evening Democrat,"Waterbury, Connecticut",https://chroniclingamerica.loc.gov/lccn/2016270503/1898-05-07/ed-1/seq-1/ocr/,
-107,1898-05-14,14,5,1898,Argus,"Holbrook, Arizona",https://chroniclingamerica.loc.gov/lccn/sn94051341/1898-05-14/ed-1/seq-2/ocr/,
-108,1898-05-19,19,5,1898,Commonwealth,"Greenwood, Mississippi",https://chroniclingamerica.loc.gov/lccn/sn89065008/1898-05-19/ed-1/seq-1/ocr/,
-109,1898-05-20,20,5,1898,Iola Register,"Iola, Kansas",https://chroniclingamerica.loc.gov/lccn/sn83040340/1898-05-20/ed-1/seq-12/ocr/,
-110,1898-05-28,28,5,1898,Martinsburg Herald,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn85059533/1898-05-28/ed-1/seq-1/ocr/,
-111,1898-05-29,29,5,1898,San Antonio Daily Light,"San Antonio, Texas",https://chroniclingamerica.loc.gov/lccn/sn86090439/1898-05-29/ed-1/seq-12/ocr/,
-112,1898-06-01,1,6,1898,Sisterville Oil Review,"Sisterville, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn86092351/1898-06-01/ed-1/seq-7/ocr/,
-113,1898-06-16,16,6,1898,Bee,"Earlington, Kentucky",https://chroniclingamerica.loc.gov/lccn/sn87060004/1898-06-16/ed-1/seq-4/ocr/,
-114,1898-06-23,23,6,1898,West Virginia Argus,"Kingwood, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn86092245/1898-06-23/ed-1/seq-4/ocr/,
-115,1898-06-23,23,6,1898,Gold Leaf,"Henderson, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn91068402/1898-06-23/ed-1/seq-4/ocr/,
-116,1898-07-01,1,7,1898,Copper Country Evening News,"Calumet, Michigan",https://chroniclingamerica.loc.gov/lccn/sn86086632/1898-07-01/ed-1/seq-7/ocr/,
-117,1898-07-04,4,7,1898,Freeland Tribune,Freeland Pennsylvania,https://chroniclingamerica.loc.gov/lccn/sn87080287/1898-07-04/ed-1/seq-1/ocr/,
-118,1898-07-04,4,7,1898,Evening Times,"Washington, DC",https://chroniclingamerica.loc.gov/lccn/sn84024441/1898-07-04/ed-1/seq-4/ocr/,
-119,1898-07-04,4,7,1898,Times,"Washington, DC",https://chroniclingamerica.loc.gov/lccn/sn85054468/1898-07-04/ed-1/seq-4/ocr/,
-120,1899-06-22,22,6,1899,Grant County Herald,"Lancaster, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85033133/1899-06-22/ed-1/seq-1/ocr/,
-121,1899-07-01,1,7,1899,Advance,"Jamesburg, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn91064026/1899-07-01/ed-1/seq-3/ocr/,
-122,1899-12-15,15,12,1899,De Queen Bee,"De Queen, Arkansas",https://chroniclingamerica.loc.gov/lccn/sn89051293/1899-12-15/ed-1/seq-2/ocr/,
+﻿index,date,day,month,year,newspaper,location,page_link
+1,1814-09-28,28,9,1814,Enquirer,"Richmond, Virginia",https://chroniclingamerica.loc.gov/lccn/sn84024736/1814-09-28/ed-1/seq-4/ocr/
+2,1839-12-11,11,12,1839,North-Carolina Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042147/1839-12-11/ed-1/seq-2/ocr/
+3,1841-08-03,3,8,1841,Richmond Enquirer,"Richmond, Virginia",https://chroniclingamerica.loc.gov/lccn/sn84024735/1841-08-03/ed-1/seq-4/ocr/
+4,1841-08-04,4,8,1841,North-Carolina Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042147/1841-08-04/ed-1/seq-2/ocr/
+5,1841-09-18,18,9,1841,Salt River Journal,"Bowling Green, Missouri",https://chroniclingamerica.loc.gov/lccn/sn83016924/1841-09-18/ed-1/seq-2/ocr/
+6,1843-01-21,21,1,1843,Richmond Enquirer,"Richmond, Virginia",https://chroniclingamerica.loc.gov/lccn/sn84024735/1843-01-21/ed-1/seq-4/ocr/
+7,1845-06-14,14,6,1845,Wisconsin Herald,"Lancaster, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn87082161/1845-06-14/ed-1/seq-2/ocr/
+8,1845-09-12,12,9,1845,American Republican and Baltimore Daily Clipper,"Baltimore, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83009567/1845-09-12/ed-1/seq-1/ocr/
+9,1852-09-17,17,9,1852,Wheeling Daily Intelligencer,"Wheeling, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn86092535/1852-09-17/ed-1/seq-2/ocr/
+10,1854-03-25,25,3,1854,North Carolinian,"Fayetteville, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn84020750/1854-03-25/ed-1/seq-1/ocr/
+11,1857-07-02,2,7,1857,Pacific Commercial Advertiser,"Honolulu, Hawaii",https://chroniclingamerica.loc.gov/lccn/sn82015418/1857-07-02/ed-1/seq-1/ocr/
+12,1857-08-13,13,8,1857,Yorkville Enquirer,"Yorkville, South Carolina",https://chroniclingamerica.loc.gov/lccn/sn84026925/1857-08-13/ed-1/seq-1/ocr/
+13,1858-07-03,3,7,1858,Sunbury American,"Sunbury, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84026403/1858-07-03/ed-1/seq-1/ocr/
+14,1858-07-10,10,7,1858,Saint Paul Weekly Minnesotian,"St Paul, Minnesota",https://chroniclingamerica.loc.gov/lccn/sn90059500/1858-07-10/ed-1/seq-1/ocr/
+15,1860-07-11,11,7,1860,Ashland Union,"Ashland, Ohio",https://chroniclingamerica.loc.gov/lccn/sn83035173/1860-07-11/ed-1/seq-4/ocr/
+16,1860-07-14,14,7,1860,Gazette and Sentinel,"Plaquemine, Louisiana",https://chroniclingamerica.loc.gov/lccn/sn86053832/1860-07-14/ed-1/seq-4/ocr/
+17,1860-11-16,16,11,1860,Constitutional Union,"Des Ark, Arkansas",https://chroniclingamerica.loc.gov/lccn/sn87090585/1860-11-16/ed-1/seq-4/ocr/
+18,1861-01-10,10,1,1861,Evansville Daily Journal,"Evansville, Indiana",https://chroniclingamerica.loc.gov/lccn/sn82015672/1861-01-10/ed-1/seq-1/ocr/
+19,1861-03-16,16,3,1861,Emporia News,"Emporia, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82016419/1861-03-16/ed-1/seq-1/ocr/
+20,1861-04-23,23,4,1861,Worchester Daily Spy,"Worcester, Massachussets",https://chroniclingamerica.loc.gov/lccn/sn83021205/1861-04-23/ed-1/seq-1/ocr/
+21,1861-04-25,25,4,1861,Alleghanian,"Ebensburg, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn85054845/1861-04-25/ed-1/seq-1/ocr/
+22,1861-04-26,26,4,1861,Lamoille Newsdealer,"Hyde Park, Vermont",https://chroniclingamerica.loc.gov/lccn/sn84023428/1861-04-26/ed-1/seq-4/ocr/
+23,1861-04-26,26,4,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-04-26/ed-1/seq-1/ocr/
+24,1861-05-02,2,5,1861,St. Cloud Democrat,"Saint Cloud, Minnesota",https://chroniclingamerica.loc.gov/lccn/sn83016836/1861-05-02/ed-1/seq-1/ocr/
+25,1861-05-02,2,5,1861,Civilian & Telegraph,"Cumberland, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83016179/1861-05-02/ed-1/seq-1/ocr/
+26,1861-05-04,4,5,1861,New-York Dispatch,"New York, New York",https://chroniclingamerica.loc.gov/lccn/sn83030364/1861-05-04/ed-1/seq-1/ocr/
+27,1861-05-04,4,5,1861,Burlington Weekly Hawk-Eye,"Burlington, Iowa",https://chroniclingamerica.loc.gov/lccn/sn84027060/1861-05-04/ed-1/seq-3/ocr/
+28,1861-05-07,7,5,1861,Buchanan County Guardian,"Independence, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058348/1861-05-07/ed-1/seq-1/ocr/
+29,1861-05-08,8,5,1861,Spirit of Democracy,"Woodsfield, Ohio",https://chroniclingamerica.loc.gov/lccn/sn85038115/1861-05-08/ed-1/seq-4/ocr/
+30,1861-05-09,9,5,1861,Cass County Republican,"Dowagiac, Michigan",https://chroniclingamerica.loc.gov/lccn/sn85033611/1861-05-09/ed-1/seq-4/ocr/
+31,1861-05-16,16,5,1861,Vermont Phoenix,"Brattleboro, Vermont",https://chroniclingamerica.loc.gov/lccn/sn98060050/1861-05-16/ed-1/seq-4/ocr/
+32,1861-05-17,17,5,1861,Watertown Republican,"Watertown, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85033295/1861-05-17/ed-1/seq-1/ocr/
+33,1861-06-21,21,7,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-06-21/ed-1/seq-3/ocr/
+34,1861-06-28,28,6,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-06-28/ed-1/seq-4/ocr/
+35,1861-07-02,2,7,1861,Daily Green Mountain Freeman,"Montpelier, Vermont",https://chroniclingamerica.loc.gov/lccn/sn84023210/1861-07-02/ed-1/seq-1/ocr/
+36,1861-07-06,6,7,1861,West-Jersey Pioneer,"Bridgeton, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn83032103/1861-07-06/ed-1/seq-1/ocr/
+37,1861-07-06,6,7,1861,American Union,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn84026772/1861-07-06/ed-1/seq-4/ocr/
+38,1861-07-11,11,7,1861,Centre Democrat,"Bellefonte, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84009409/1861-07-11/ed-1/seq-1/ocr/
+39,1861-07-12,12,7,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-07-12/ed-1/seq-4/ocr/
+40,1861-07-18,18,7,1861,Centre Democrat,"Bellefonte, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84009409/1861-07-18/ed-1/seq-1/ocr/
+41,1861-08-16,16,8,1861,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1861-08-16/ed-1/seq-4/ocr/
+42,1862-07-03,3,7,1862,Tipton Advertiser,"Tipton, Iowa",https://chroniclingamerica.loc.gov/lccn/sn84027398/1862-07-03/ed-1/seq-1/ocr/
+43,1865-06-30,30,6,1865,Bedford Inquirer,"Bedford, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83032006/1865-06-30/ed-1/seq-1/ocr/
+44,1865-07-04,4,7,1865,Evansville Daily Journal,"Evansville, Indiana",https://chroniclingamerica.loc.gov/lccn/sn86059181/1865-07-04/ed-1/seq-2/ocr/
+45,1865-07-04,4,7,1865,Wheeling Daily Intelligencer,"Wheeling, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn84026844/1865-07-04/ed-1/seq-1/ocr/
+46,1865-07-05,5,7,1865,Weekly Perrysburg Journal,"Perrysburg, Ohio",https://chroniclingamerica.loc.gov/lccn/sn85026193/1865-07-05/ed-1/seq-1/ocr/
+47,1866-04-09,9,4,1866,Evening Telegraph,"Philadelphia, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn83025925/1866-04-09/ed-1/seq-6/ocr/
+48,1866-09-13,13,9,1866,Elk Advocate,"Ridgeway, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn87079926/1866-09-13/ed-1/seq-1/ocr/
+49,1867-01-29,29,1,1867,Tri-Weekly Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-01-29/ed-1/seq-4/ocr/
+50,1867-01-31,31,1,1867,Tri-Weekly Standard,"Raleigh, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn85042146/1867-01-31/ed-1/seq-4/ocr/
+51,1867-10-21,21,10,1867,Daily Ohio Statesman,"Columbus, Ohio",https://chroniclingamerica.loc.gov/lccn/sn84028645/1867-10-21/ed-1/seq-1/ocr/
+52,1871-07-13,13,7,1871,New York Herald,"New York, New York",https://chroniclingamerica.loc.gov/lccn/sn83030313/1871-07-13/ed-1/seq-6/ocr/
+53,1872-06-29,29,6,1872,Sunbury American,"Sunbury, Pennsylvania",https://chroniclingamerica.loc.gov/lccn/sn84026403/1872-06-29/ed-1/seq-1/ocr/
+54,1872-07-04,4,7,1872,White Cloud Kansas Chief,"White Cloud, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82015486/1872-07-04/ed-1/seq-4/ocr/
+55,1872-11-05,5,11,1872,Bristol News,"Bristol, Virginia",https://chroniclingamerica.loc.gov/lccn/sn85026955/1872-11-05/ed-1/seq-1/ocr/
+56,1875-07-01,1,7,1875,Lyon County Times,"Silver City, Nevada",https://chroniclingamerica.loc.gov/lccn/sn84022053/1875-07-01/ed-1/seq-3/ocr/
+57,1875-07-02,2,7,1875,New North-West,"Deer Lodge, Montana",https://chroniclingamerica.loc.gov/lccn/sn84038125/1875-07-02/ed-1/seq-1/ocr/
+58,1875-07-03,3,7,1875,Northern Ohio Journal,"Painesville, Ohio",https://chroniclingamerica.loc.gov/lccn/sn84028194/1875-07-03/ed-1/seq-3/ocr/
+59,1876-01-02,2,1,1876,Chicago Daily Tribune,"Chicago, Illinois",https://chroniclingamerica.loc.gov/lccn/sn84031492/1876-01-02/ed-1/seq-6/ocr/
+60,1876-06-30,30,6,1876,Perrysburg Journal,"Perrysburg, Ohio",https://chroniclingamerica.loc.gov/lccn/sn87076843/1876-06-30/ed-1/seq-2/ocr/
+61,1876-07-05,5,7,1876,Watertown Republican,"Watertown, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85033295/1876-07-05/ed-1/seq-2/ocr/
+62,1876-07-06,6,7,1876,Weekly Kansas Chief,"Troy, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82015484/1876-07-06/ed-1/seq-4/ocr/
+63,1876-07-07,7,7,1876,Herald and Mail,"Columbia, Tennessee",https://chroniclingamerica.loc.gov/lccn/sn86053406/1876-07-07/ed-1/seq-1/ocr/
+64,1876-07-13,13,7,1876,Highland Weekly News,"Hillsborough, Ohio",https://chroniclingamerica.loc.gov/lccn/sn85038158/1876-07-13/ed-1/seq-2/ocr/
+65,1878-06-27,27,6,1878,Weekly Kansas Chief,"Troy, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82015484/1878-06-27/ed-1/seq-1/ocr/
+66,1881-01-01,1,1,1881,National Tribune,"Washington, DC",https://chroniclingamerica.loc.gov/lccn/sn82016187/1881-01-01/ed-1/seq-1/ocr/
+67,1884-09-17,17,9,1884,Connecticut Western News,"Salisbury, Connecticut",https://chroniclingamerica.loc.gov/lccn/sn84027718/1884-09-17/ed-1/seq-1/ocr/
+68,1885-07-04,4,7,1885,Democratic Advocate,"Westminster, Maryland",https://chroniclingamerica.loc.gov/lccn/sn85038292/1885-07-04/ed-1/seq-4/ocr/
+69,1885-07-04,4,7,1885,Martinsburg Herald,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn85059533/1885-07-04/ed-1/seq-3/ocr/
+70,1888-11-22,22,11,1888,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1888-11-22/ed-1/seq-4/ocr/
+71,1890-07-04,4,7,1890,Iola Register,"Iola, Kansas",https://chroniclingamerica.loc.gov/lccn/sn83040340/1890-07-04/ed-1/seq-8/ocr/
+72,1890-07-04,4,7,1890,Aegis & Intelligencer,"Bel Air, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83016107/1890-07-04/ed-1/seq-1/ocr/
+73,1890-07-10,10,7,1890,Advance,"Jamesburg, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn91064026/1890-07-10/ed-1/seq-2/ocr/
+74,1892-07-02,2,7,1892,Caldwell Tribune,"Caldwell, Idaho",https://chroniclingamerica.loc.gov/lccn/sn86091092/1892-07-02/ed-1/seq-10/ocr/
+75,1894-01-20,20,1,1894,Martinsburg Herald,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn85059533/1894-01-20/ed-1/seq-3/ocr/
+76,1894-09-15,15,9,1894,Record Union,"Sacramento, California",https://chroniclingamerica.loc.gov/lccn/sn82015104/1894-09-15/ed-1/seq-7/ocr/
+77,1896-07-02,2,7,1896,Advance,"Jamesburg, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn91064026/1896-07-02/ed-1/seq-1/ocr/
+78,1897-04-03,3,4,1897,Middletown Transcript,"Middletown, Delaware",https://chroniclingamerica.loc.gov/lccn/sn84026820/1897-04-03/ed-1/seq-2/ocr/
+79,1897-06-26,26,6,1897,Las Vegas Daily Optic,"Las Vegas, New Mexico",https://chroniclingamerica.loc.gov/lccn/sn86063592/1897-06-26/ed-1/seq-3/ocr/
+80,1897-07-01,1,7,1897,Globe-Republican,"Dodge City, Kansas",https://chroniclingamerica.loc.gov/lccn/sn84029853/1897-07-01/ed-1/seq-7/ocr/
+81,1897-07-01,1,7,1897,Hutchinson Gazette,"Hutchinson, Kansas",https://chroniclingamerica.loc.gov/lccn/sn85030687/1897-07-01/ed-1/seq-7/ocr/
+82,1897-07-01,1,7,1897,Rocky Ford Enterprise,"Rocky Ford, Colorado",https://chroniclingamerica.loc.gov/lccn/sn90051265/1897-07-01/ed-1/seq-1/ocr/
+83,1897-07-02,2,7,1897,Shoshone Journal,"Shoshone, Idaho",https://chroniclingamerica.loc.gov/lccn/sn86063039/1897-07-02/ed-1/seq-7/ocr/
+84,1897-07-02,2,7,1897,Yale Expositor,"Yale, Michigan",https://chroniclingamerica.loc.gov/lccn/sn98066406/1897-07-02/ed-1/seq-3/ocr/
+85,1897-07-02,2,7,1897,McCook Tribune,"McCook, Nebraska",https://chroniclingamerica.loc.gov/lccn/sn94056415/1897-07-02/ed-1/seq-3/ocr/
+86,1897-07-02,2,7,1897,Kansas Agitator,"Garnett, Kansas",https://chroniclingamerica.loc.gov/lccn/sn83040052/1897-07-02/ed-1/seq-6/ocr/
+87,1897-07-02,2,7,1897,State Herald,"Holyoke, Colorado",https://chroniclingamerica.loc.gov/lccn/sn90051167/1897-07-02/ed-1/seq-3/ocr/
+88,1897-07-02,2,7,1897,Iowa State Bystander,"Des Moines, Iowa",https://chroniclingamerica.loc.gov/lccn/sn83025186/1897-07-02/ed-1/seq-4/ocr/
+89,1897-07-31,31,7,1897,Caldwell Tribune,"Caldwell, Idaho",https://chroniclingamerica.loc.gov/lccn/sn86091092/1897-07-31/ed-1/seq-2/ocr/
+90,1898-04-04,4,4,1898,Kansas City Journal,"Kansas City, Missouri",https://chroniclingamerica.loc.gov/lccn/sn86063615/1898-04-04/ed-1/seq-2/ocr/
+91,1898-04-14,14,4,1898,Eagle River Review,"Eagle River, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85040614/1898-04-14/ed-1/seq-4/ocr/
+92,1898-04-17,17,4,1898,Saint Paul Globe,"St Paul, Minnesota",https://chroniclingamerica.loc.gov/lccn/sn90059523/1898-04-17/ed-1/seq-1/ocr/
+93,1898-04-18,18,4,1898,Salt Lake Herald,"Salt Lake City, Utah",https://chroniclingamerica.loc.gov/lccn/sn85058130/1898-04-18/ed-1/seq-4/ocr/
+94,1898-04-21,21,4,1898,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-2/seq-4/ocr/
+95,1898-04-21,21,4,1898,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-1/seq-5/ocr/
+96,1898-04-21,21,4,1898,Oskaloosa Herald,"Oskaloosa, Iowa",https://chroniclingamerica.loc.gov/lccn/sn87058308/1898-04-21/ed-1/seq-4/ocr/
+97,1898-04-22,22,4,1898,Lincoln County Leader,"Toledo, Oregon",https://chroniclingamerica.loc.gov/lccn/sn85033162/1898-04-22/ed-1/seq-2/ocr/
+98,1898-04-25,25,4,1898,Topeka State Journal,"Topeka, Kansas",https://chroniclingamerica.loc.gov/lccn/sn82016014/1898-04-25/ed-2/seq-4/ocr/
+99,1898-04-28,28,4,1898,Republican,"Oakland, Maryland",https://chroniclingamerica.loc.gov/lccn/sn88065202/1898-04-28/ed-1/seq-1/ocr/
+100,1898-04-28,28,4,1898,Butler Weekly Times,"Butler, Missouri",https://chroniclingamerica.loc.gov/lccn/sn89066489/1898-04-28/ed-1/seq-4/ocr/
+101,1898-04-28,28,4,1898,Wilmington Daily Republican,"Wilmington, Delaware",https://chroniclingamerica.loc.gov/lccn/sn88053055/1898-04-28/ed-1/seq-4/ocr/
+102,1898-05-04,4,5,1898,Bill Barlow's Budget,"Douglas, Wyoming",https://chroniclingamerica.loc.gov/lccn/sn92067125/1898-05-04/ed-1/seq-2/ocr/
+103,1898-05-06,6,5,1898,Lewiston Teller,"Lewiston, Idaho",https://chroniclingamerica.loc.gov/lccn/sn82007023/1898-05-06/ed-1/seq-6/ocr/
+104,1898-05-06,6,5,1898,Aegis & Intelligencer,"Bel Air, Maryland",https://chroniclingamerica.loc.gov/lccn/sn83016107/1898-05-06/ed-1/seq-1/ocr/
+105,1898-05-07,7,5,1898,El Paso Daily Herald,"El Paso, Texas",https://chroniclingamerica.loc.gov/lccn/sn86064199/1898-05-07/ed-1/seq-2/ocr/
+106,1898-05-07,7,5,1898,Waterbury Evening Democrat,"Waterbury, Connecticut",https://chroniclingamerica.loc.gov/lccn/2016270503/1898-05-07/ed-1/seq-1/ocr/
+107,1898-05-14,14,5,1898,Argus,"Holbrook, Arizona",https://chroniclingamerica.loc.gov/lccn/sn94051341/1898-05-14/ed-1/seq-2/ocr/
+108,1898-05-19,19,5,1898,Commonwealth,"Greenwood, Mississippi",https://chroniclingamerica.loc.gov/lccn/sn89065008/1898-05-19/ed-1/seq-1/ocr/
+109,1898-05-20,20,5,1898,Iola Register,"Iola, Kansas",https://chroniclingamerica.loc.gov/lccn/sn83040340/1898-05-20/ed-1/seq-12/ocr/
+110,1898-05-28,28,5,1898,Martinsburg Herald,"Martinsburg, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn85059533/1898-05-28/ed-1/seq-1/ocr/
+111,1898-05-29,29,5,1898,San Antonio Daily Light,"San Antonio, Texas",https://chroniclingamerica.loc.gov/lccn/sn86090439/1898-05-29/ed-1/seq-12/ocr/
+112,1898-06-01,1,6,1898,Sisterville Oil Review,"Sisterville, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn86092351/1898-06-01/ed-1/seq-7/ocr/
+113,1898-06-16,16,6,1898,Bee,"Earlington, Kentucky",https://chroniclingamerica.loc.gov/lccn/sn87060004/1898-06-16/ed-1/seq-4/ocr/
+114,1898-06-23,23,6,1898,West Virginia Argus,"Kingwood, West Virginia",https://chroniclingamerica.loc.gov/lccn/sn86092245/1898-06-23/ed-1/seq-4/ocr/
+115,1898-06-23,23,6,1898,Gold Leaf,"Henderson, North Carolina",https://chroniclingamerica.loc.gov/lccn/sn91068402/1898-06-23/ed-1/seq-4/ocr/
+116,1898-07-01,1,7,1898,Copper Country Evening News,"Calumet, Michigan",https://chroniclingamerica.loc.gov/lccn/sn86086632/1898-07-01/ed-1/seq-7/ocr/
+117,1898-07-04,4,7,1898,Freeland Tribune,Freeland Pennsylvania,https://chroniclingamerica.loc.gov/lccn/sn87080287/1898-07-04/ed-1/seq-1/ocr/
+118,1898-07-04,4,7,1898,Evening Times,"Washington, DC",https://chroniclingamerica.loc.gov/lccn/sn84024441/1898-07-04/ed-1/seq-4/ocr/
+119,1898-07-04,4,7,1898,Times,"Washington, DC",https://chroniclingamerica.loc.gov/lccn/sn85054468/1898-07-04/ed-1/seq-4/ocr/
+120,1899-06-22,22,6,1899,Grant County Herald,"Lancaster, Wisconsin",https://chroniclingamerica.loc.gov/lccn/sn85033133/1899-06-22/ed-1/seq-1/ocr/
+121,1899-07-01,1,7,1899,Advance,"Jamesburg, New Jersey",https://chroniclingamerica.loc.gov/lccn/sn91064026/1899-07-01/ed-1/seq-3/ocr/
+122,1899-12-15,15,12,1899,De Queen Bee,"De Queen, Arkansas",https://chroniclingamerica.loc.gov/lccn/sn89051293/1899-12-15/ed-1/seq-2/ocr/
